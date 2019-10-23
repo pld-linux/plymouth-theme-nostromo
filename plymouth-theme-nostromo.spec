@@ -1,7 +1,7 @@
 Summary:	Plymouth "Nostromo" theme
 Name:		plymouth-theme-nostromo
 Version:	1.3
-Release:	0.1
+Release:	1
 License:	GPL v3
 Group:		Applications
 Source0:	https://github.com/brenns10/plymouth-theme-nostromo/archive/v%{version}/%{name}-%{version}.tar.gz
